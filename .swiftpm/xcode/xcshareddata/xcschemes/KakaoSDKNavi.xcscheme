@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "KakaoSDKWapper"
-               BuildableName = "KakaoSDKWapper"
-               BlueprintName = "KakaoSDKWapper"
+               BlueprintIdentifier = "KakaoSDKNavi"
+               BuildableName = "KakaoSDKNavi"
+               BlueprintName = "KakaoSDKNavi"
                ReferencedContainer = "container:">
             </BuildableReference>
          </BuildActionEntry>
@@ -50,9 +50,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "KakaoSDKWapper"
-            BuildableName = "KakaoSDKWapper"
-            BlueprintName = "KakaoSDKWapper"
+            BlueprintIdentifier = "KakaoSDKNavi"
+            BuildableName = "KakaoSDKNavi"
+            BlueprintName = "KakaoSDKNavi"
             ReferencedContainer = "container:">
          </BuildableReference>
       </MacroExpansion>
